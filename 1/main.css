@@ -1,0 +1,86 @@
+/*left div*/
+
+#left{
+    margin-top:0px;
+    float:left;
+    margin-right:50px;
+    line-height:25pt;
+}
+
+h1.nokia{
+    color:blue;
+    font-size:60px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+p.people{
+    color:blue;
+    font-size:15px;
+    margin-top:0px;
+    margin-left:10px;
+}
+
+p.search{
+    color:purple;
+    text-decoration:underline;
+    font-size:20px;
+    border-style:dotted;
+    width:58px;
+}
+
+p.blue{
+    color:blue;
+    text-decoration:underline;
+    font-size:20px;
+}
+
+p.purple{
+    color:purple;
+    text-decoration:underline;
+    font-size:20px;
+}
+
+/*right div*/
+
+#right{
+    margin:0 auto;
+}
+
+p.black{
+    color:black;
+    font-size:30px;
+}
+
+hr.class-1{
+    border-top:3px solid black;
+}
+
+.radio{
+    font-size:20px;
+}
+
+p.down{
+    font-size:20px;
+    letter-spacing: -1.5px;
+}
+
+.text{
+    width:300px;
+    height:25px;
+    margin-top:0px;
+}
+
+/*button*/
+
+.button{
+    font-size:20px;
+    margin-left:253px;
+    margin-top:30px;
+}
+
+button{
+    height:30px;
+    width:60px;
+    font-size:15px;
+}
